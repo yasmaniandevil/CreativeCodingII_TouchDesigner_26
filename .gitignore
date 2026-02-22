@@ -1,0 +1,62 @@
+# ==========================
+# TouchDesigner
+# ==========================
+
+# Auto-backup files
+*.toe.autosave
+*.tox.autosave
+
+# Temporary files
+*.toe.temp
+*.tox.temp
+
+# Crash files
+*.dmp
+
+# TouchDesigner cache folders (if generated)
+Cache/
+cache/
+Caches/
+
+# ==========================
+# Python
+# ==========================
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# ==========================
+# Logs
+# ==========================
+
+*.log
+
+# ==========================
+# OS Generated Files
+# ==========================
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# ==========================
+# IDE / Editor
+# ==========================
+
+.vscode/
+.idea/
+
+# ==========================
+# Build / Export
+# ==========================
+
+Build/
+build/
+dist/
